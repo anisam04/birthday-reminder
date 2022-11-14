@@ -1,3 +1,3 @@
-## Idea
+### React Basics
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Simple React App displaying birthday reminders.
